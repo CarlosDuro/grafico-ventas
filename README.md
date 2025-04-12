@@ -14,6 +14,8 @@ Este ejercicio tiene como objetivo aprender a trabajar con bibliotecas de Python
 - **pandas**: Biblioteca para el manejo de datos en formato tabular.
 - **matplotlib**: Biblioteca para la creación de gráficos.
 
+![Gráfico de Ventas](images/grafico_ventas.png)
+
 ## Instrucciones de uso
 
 1. Asegúrate de tener Python instalado en tu máquina.
@@ -22,5 +24,5 @@ Este ejercicio tiene como objetivo aprender a trabajar con bibliotecas de Python
    ```bash
    pip install pandas matplotlib openpyxl
 
-   ![Gráfico de Ventas](images/grafico_ventas.png)
+
 
