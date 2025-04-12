@@ -21,3 +21,6 @@ Este ejercicio tiene como objetivo aprender a trabajar con bibliotecas de Python
 
    ```bash
    pip install pandas matplotlib openpyxl
+
+   ![Gráfico de Ventas](images/grafico_ventas.png)
+
